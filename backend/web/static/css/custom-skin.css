@@ -1,0 +1,92 @@
+@charset "utf-8";
+
+.no-skin .navbar {background: #2f80d1 !important}
+.no-skin .sidebar{background: #f9f9f7 !important}
+.no-skin .page-tabs .page-tabs-content a.active {background: #428bca; color:#fff;}
+.no-skin .content-tabs{border-bottom: solid 2px #1a70c5;}
+
+.no-skin .small-chat-box .content .chat-message.active{background:#428bca;}
+.no-skin .small-chat-box .btn-primary, .no-skin .small-chat-box .btn-primary:focus {background-color: #428bca !important;border-color: #428bca;}
+.no-skin .small-chat-box .btn-primary:hover, .no-skin .small-chat-box .btn-primary:active{background-color: #3378b4 !important;border-color: #428bca;}
+.no-skin .open-small-chat{background: #428bca;}
+
+.skin-1 {background-color: #09192A !important}
+.skin-1 .navbar {background: #09192A !important}
+.skin-1 .sidebar {background-color: #09192a;}
+.skin-1 .nav-list>li a{ color: #fff;}
+.skin-1 .nav>li>a:hover, .skin-1 .nav>li>a:focus{background-color: #225081;border-color: #428bca;}
+.skin-1 .ace-nav>li.grey>a {background-color: #6b6a6a;}
+.skin-1 .ace-nav>li.grey>a:hover,.skin-1 .ace-nav>li.grey>a:focus{background-color: #5a5959;}
+.skin-1 .ace-nav>li.purple>a {background-color: #8d0c0c;}
+.skin-1 .ace-nav>li.purple>a:hover,.skin-1 .ace-nav>li.purple>a:focus{background-color: #a30c0c;}
+.skin-1 .ace-nav>li.green>a {background-color: #be7715;}
+.skin-1 .ace-nav>li.green>a:hover,.skin-1 .ace-nav>li.green>a:focus{background-color: #c98321;}
+.skin-1 .ace-nav>li.light-blue>a{background-color: #15293f;}
+.skin-1 .ace-nav>li.light-blue>a:hover,.skin-1 .ace-nav>li.light-blue>a:focus{background-color: #1b344f;}
+.skin-1 .label-grey, .skin-1 .badge-grey {background-color: #8e8b8b !important;}
+.skin-1 .label-important, .skin-1 .badge-important {background-color: #d15b47!important;}
+.skin-1 .label-success, .skin-1 .badge-success {background-color: #dc983b !important;}
+.skin-1 .page-tabs .page-tabs-content a.active {background: #222a2d;}
+
+.skin-1 .small-chat-box .content .chat-message.active{background:#222a2d;}
+.skin-1 .small-chat-box .btn-primary, .skin-1 .small-chat-box .btn-primary:focus {background-color: #222a2d !important;border-color: #222a2d;}
+.skin-1 .small-chat-box .btn-primary:hover, .skin-1 .small-chat-box .btn-primary:active{background-color: #0c1012 !important;border-color: #222a2d;}
+.skin-1 .open-small-chat{background: #222a2d;}
+
+.skin-2 {background-color: #318c31 !important}
+.skin-2 .navbar {background: #0b8f7b !important}
+.skin-2 .nav-list>li a{ color: #fff;}
+.skin-2 .nav>li>a:hover, .skin-2 .nav>li>a:focus{background-color: #1bae99;}
+.skin-2 .ace-nav>li.grey.light-pink>a {background-color: #152346;}
+.skin-2 .ace-nav>li.grey.light-pink>a:hover,.skin-2 .ace-nav>li.grey.light-pink>a:focus{background-color: #25386a;}
+.skin-2 .ace-nav>li.purple.light-pink>a {background-color: #b0be1b;}
+.skin-2 .ace-nav>li.purple.light-pink>a:hover,.skin-2 .ace-nav>li.purple.light-pink>a:focus{background-color: #bdcb23;}
+.skin-2 .ace-nav>li.green.light-pink>a {background-color: #d15b47;}
+.skin-2 .ace-nav>li.green.light-pink>a:hover,.skin-2 .ace-nav>li.green.light-pink>a:focus{background-color: #dc614c;}
+.skin-2 .ace-nav>li.light-blue>a{background-color: #047968;}
+.skin-2 .ace-nav>li.light-blue>a:hover,.skin-2 .ace-nav>li.light-blue>a:focus{background-color: #026355;}
+.skin-2 .ace-nav>li>a>.ace-icon.pink{color: #fff!important;}
+.skin-2 .label-grey, .skin-2 .badge-grey {background-color: #455888 !important;}
+.skin-2 .label-important, .skin-2 .badge-important {background-color: #a2b013!important;}
+.skin-2 .label-success, .skin-2 .badge-success {background-color: #bc4a37 !important;}
+.skin-2 .page-tabs .page-tabs-content a.active {background: #1ab394; color: #fff;}
+.skin-2 .content-tabs{border-bottom: solid 2px #17a689;}
+
+.skin-2 .btn-white.btn-pink {border-color: #39435c;color: #fff !important;}
+.skin-2 .btn.btn-white:nth-child(1){background-color: #629b58 !important;border-color: #629b58;}
+.skin-2 .btn.btn-white:nth-child(1):hover,.skin-2 .btn.btn-white:nth-child(1):active{background-color: #629b58 !important;border-color: #87b87f;}
+
+.skin-2 .btn.btn-white:nth-child(2){background-color: #6fb3e0 !important;border-color: #6fb3e0;}
+.skin-2 .btn.btn-white:nth-child(2):hover,.skin-2 .btn.btn-white:nth-child(2):active{background-color: #4f99c6 !important;border-color: #6fb3e0;}
+.skin-2 .btn.btn-white:nth-child(3){background-color: #ffb752 !important;border-color: #ffb752;}
+.skin-2 .btn.btn-white:nth-child(3):hover,.skin-2 .btn.btn-white:nth-child(3):active{background-color: #e59729 !important;border-color: #ffb752;}
+.skin-2 .btn.btn-white:nth-child(4){background-color: #d15b47 !important;border-color: #d15b47;}
+.skin-2 .btn.btn-white:nth-child(4):hover,.skin-2 .btn.btn-white:nth-child(4):active{background-color: #b74635 !important;border-color: #d15b47;}
+.skin-2 .nav-list>li:hover>a>.menu-text {color:#fff!important;}
+
+.skin-3 .navbar {background: #4a4a4a !important;}
+.skin-3 .ace-nav>li.light-blue>a{background-color: #292828;}
+.skin-3 .ace-nav>li.light-blue>a:hover,.skin-3 .ace-nav>li.light-blue>a:focus{background-color: #383737;}
+.skin-3 .page-tabs .page-tabs-content a.active {background: #808080; color: #fff;}
+.skin-3 .ace-nav>li.red>a{background-color: #d65489;}
+.skin-3 .ace-nav>li.red>a:hover,.skin-3 .ace-nav>li.red>a:focus{background-color: #e0588f;}
+.skin-3 .ace-nav>li.purple>a{background-color: #478fca;}
+.skin-3 .ace-nav>li.purple>a:hover,.skin-3 .ace-nav>li.purple>a:focus{background-color: #4b96d3;}
+.skin-3 .ace-nav>li.green>a{background-color: #69aa46;}
+.skin-3 .ace-nav>li.green>a:hover,.skin-3 .ace-nav>li.green>a:focus{background-color: #6fb34a;}
+
+.skin-3 .badge-yellow, .skin-3 .label-yellow {background-color: #cc3170 !important; color: #fff!important;}
+.skin-3 .label-success, .skin-3 .badge-success {background-color: #599c35 !important; color: #fff!important;}
+.skin-3 .label-important, .skin-3 .badge-important {background-color: #337db9 !important; color: #fff!important;}
+.skin-3 .content-tabs{border-bottom: solid 2px #616060;}
+
+.skin-3 .small-chat-box .content .chat-message.active{background:#808080;}
+.skin-3 .small-chat-box .btn-primary, .skin-3 .small-chat-box .btn-primary:focus {background-color: #808080 !important;border-color: #808080;}
+.skin-3 .small-chat-box .btn-primary:hover, .skin-3 .small-chat-box .btn-primary:active{background-color: #5f5e5e !important;border-color: #808080;}
+.skin-3 .open-small-chat{background: #808080;}
+
+
+
+
+
+
